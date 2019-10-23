@@ -1,4 +1,4 @@
-            Algorithmic
+           Algorithmic 
 Programming Assignment: Divide and Conquer
 Advanced Problem: Organizing a Lottery
 
